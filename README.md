@@ -39,3 +39,7 @@ dont know the command yet, this is placeholdder
 dont know the command yet, this is placeholdder
 ```
 Enjoy!
+
+## To-Do List
+Learn how to code guis and add guis
+Add more languages (python, others)
