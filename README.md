@@ -14,9 +14,13 @@ Template for C.
 ## Currently suppourted languages:
 
 C
+
 Java
+
 Javascript
+
 HTML
+
 and more to come!
 
 ## Build Instructions
