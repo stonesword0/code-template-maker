@@ -32,11 +32,11 @@ cd code-template-maker
 ```
 2. Compile using gcc / g++
 ```
-dont know the command yet, this is placeholdder
+gcc main.c -o code-template-maker
 ```
-3.Install
+3.Run 
 ```
-dont know the command yet, this is placeholdder
+./code-template-maker.out
 ```
 Enjoy!
 
